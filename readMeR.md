@@ -21,7 +21,7 @@ Install them using:
 ```R
 install.packages("votesys")
 install.packages("dplyr")
-
+ ```
 ### Usage
 
 1. Run the script directly:
